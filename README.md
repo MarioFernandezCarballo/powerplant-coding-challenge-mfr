@@ -15,10 +15,11 @@ Returns a response specifying for each powerplant how much power each powerplant
 Pull this repository
 
 ```bash
-https://github.com/MarioFernandezCarballo/powerplant-coding-challenge-mfr.git
+git init
+git pull https://github.com/MarioFernandezCarballo/powerplant-coding-challenge-mfr.git
 ```
 
-Navigate to the root directory
+One in the root directory
 
 ```bash
 docker build -t powerplant-challenge .
