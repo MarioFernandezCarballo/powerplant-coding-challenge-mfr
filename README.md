@@ -19,7 +19,7 @@ git init
 git pull https://github.com/MarioFernandezCarballo/powerplant-coding-challenge-mfr.git
 ```
 
-One in the root directory
+One in the root directory and then
 
 ```bash
 docker build -t powerplant-challenge .
